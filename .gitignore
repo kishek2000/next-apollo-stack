@@ -1,5 +1,6 @@
 # We don't want any node modules pushed up
 */node_modules
+node_modules
 
 # Don't want the api key pushed up
 .env.local
